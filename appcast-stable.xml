@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SecondDock — Stable Updates</title>
         <link>https://raw.githubusercontent.com/jazongb/second-dock-releases/main/appcast-stable.xml</link>
         <description>Stable-channel release feed for SecondDock. Empty until the first release is cut.</description>
         <language>en</language>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 15 Sep 2026 07:16:28 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jazongb/second-dock-releases/releases/download/stable-0.2.0-b2/SecondDock-0.2.0-2.zip" length="3353714" type="application/octet-stream" sparkle:edSignature="iSsTqEzde1TEje5p9ikgxnuB6vSrVUBpUpXJwWrRlg+tNtgm3WHD6UjgQLb9IlmwFNLnddQ9RA1NEkXV5MabDQ=="/>
+        </item>
     </channel>
 </rss>
