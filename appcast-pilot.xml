@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SecondDock — Pilot Updates</title>
+        <link>https://raw.githubusercontent.com/jazongb/second-dock-releases/main/appcast-pilot.xml</link>
+        <description>Pilot-channel release feed for SecondDock (Jaron's own builds, ahead of stable). Empty until the first release is cut.</description>
+        <language>en</language>
+    </channel>
+</rss>

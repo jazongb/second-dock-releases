@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SecondDock — Stable Updates</title>
+        <link>https://raw.githubusercontent.com/jazongb/second-dock-releases/main/appcast-stable.xml</link>
+        <description>Stable-channel release feed for SecondDock. Empty until the first release is cut.</description>
+        <language>en</language>
+    </channel>
+</rss>
