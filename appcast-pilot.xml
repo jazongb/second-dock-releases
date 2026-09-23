@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SecondDock — Pilot Updates</title>
         <link>https://raw.githubusercontent.com/jazongb/second-dock-releases/main/appcast-pilot.xml</link>
         <description>Pilot-channel release feed for SecondDock (Jaron's own builds, ahead of stable). Empty until the first release is cut.</description>
         <language>en</language>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 22 Sep 2026 17:38:51 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/jazongb/second-dock-releases/main/SecondDock-0.3.0-3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jazongb/second-dock-releases/releases/download/pilot-0.3.0-b3/SecondDock-0.3.0-3.zip" length="3417653" type="application/octet-stream" sparkle:edSignature="SVElVz8QtPbLwvNxuIxyyWIHDoI/8FIjZPBh6JXX+hHDud6KYMAI9zOF4PFb9TMGfVUzWMB+WyXj6lg4yN29Dg=="/>
+        </item>
     </channel>
 </rss>
